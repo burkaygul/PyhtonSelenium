@@ -1,0 +1,13 @@
+2024-11-22 19:26:09,982 :INFO : pytestsDemo.BaseClass : Burkay
+2024-11-22 19:26:09,983 :INFO : pytestsDemo.BaseClass : Gül
+2024-11-22 19:28:41,932 :INFO : pytestsDemo.BaseClass : Burkay
+2024-11-22 19:28:41,932 :INFO : pytestsDemo.BaseClass : Gül
+2024-11-22 19:31:20,930 :INFO : test_editProfile : Burkay
+2024-11-22 19:31:20,930 :INFO : test_editProfile : Gül
+2024-11-22 19:32:37,670 :INFO : test_editProfile : Burkay
+2024-11-22 19:32:37,670 :INFO : test_editProfile : Gül
+2024-11-22 19:32:37,673 :DEBUG : pytestsDemo.test_logging : A debug statement is executed
+2024-11-22 19:32:37,673 :INFO : pytestsDemo.test_logging : Information statement
+2024-11-22 19:32:37,673 :WARNING : pytestsDemo.test_logging : Something is in warning mode
+2024-11-22 19:32:37,673 :ERROR : pytestsDemo.test_logging : A Major error has happend
+2024-11-22 19:32:37,673 :CRITICAL : pytestsDemo.test_logging : Critical issue
